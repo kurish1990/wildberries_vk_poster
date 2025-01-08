@@ -14,8 +14,8 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger()
 
 # Конфигурация VK API
-VK_GROUP_ID = "222086696"  # Замените на ID вашей группы ВКонтакте
-VK_ACCESS_TOKEN = "vk1.a.FQmWVmoh9CRP1J0VRON_gyCfWTivK0CCMLVX0ewBfB4bmm-rfL_Nzq0rjxdaWSyP5MWEbxyVNBXd_dS5Vo91jc4x8G2SckxP94zGhlUsvbrxY0lQKbF4M6_jYCtmrjJxarCTxOX4ubsNdZGofOsinpAPFccr6WNeowqYpz_ymdqq6o0OUqZY77pOA0MDhx5NcVcR0aaOFDJWN0x5GBuoPQ"
+VK_GROUP_ID = "your id"  # Замените на ID вашей группы ВКонтакте
+VK_ACCESS_TOKEN = "your token"
 VK_API_VERSION = "5.131"
 
 # URL Wildberries
